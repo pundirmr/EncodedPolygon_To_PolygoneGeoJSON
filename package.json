@@ -1,0 +1,25 @@
+{
+  "name": "turf-line-to-polygon",
+  "version": "0.2.1",
+  "description": "A turf module to transform a LineString geometry to a (closed) Polygon geometry.",
+  "main": "index.js",
+  "scripts": {
+    "test": "tape test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Turfjs/turf-line-to-polygon.git"
+  },
+  "keywords": [
+    "geojson",
+    "polygon",
+    "linestring",
+    "gis"
+  ],
+  "author": "Christian Spanring",
+  "license": "ISC",
+  "homepage": "https://github.com/Turfjs/turf-line-to-polygon.git",
+  "devDependencies": {
+    "tape": "^2.13.2"
+  }
+}
